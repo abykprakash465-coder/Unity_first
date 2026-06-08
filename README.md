@@ -17,4 +17,4 @@ A basic introduction project to get familiar with the Unity game engine environm
 Coming into Unity, the initial interface experience has been positive:
 * **The Environment:** It felt intuitive and well-structured right out of the box. 
 * **Learning Outlook:** Exploring the component system and navigating the various windows (Scene, Game, Hierarchy, Inspector) feels like it will be incredibly interesting and engaging as the project develops.
-![Project Screenshot](./Screenshot From 2026-06-08 22-39-46.png)
+![Project Screenshot](./Screenshot%20From%202026-06-08%2022-39-46.png)
